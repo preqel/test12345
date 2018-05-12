@@ -8,6 +8,12 @@ public class Demo {
 
     public String name="demo";
 
+    int a  = 1;
+    int b = 1;
+    double c = 1;
+    double d = 1;
+
+
     public static synchronized void staticfunction() throws InterruptedException {
         for(int i=0;i<3;i++){
             Thread.sleep(1000);
