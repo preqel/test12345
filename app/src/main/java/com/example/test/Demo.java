@@ -7,7 +7,7 @@ package com.example.test;
 public class Demo {
 
     public String name="demo";
-
+  //在demo里面增加了两行代码
     int a  = 1;
     int b = 1;
     double c = 1;
